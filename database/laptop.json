@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name":"Dell Alienware",
+        "screen": 17.3,
+        "processor": "Intel Core i9",
+        "RAM": 64,
+        "storage": 4000,
+        "price": 6000,
+        "stock": true
+    },
+    {
+        "id": 1,
+        "name":"Lenovo ThinkPad",
+        "screen": 15.6,
+        "processor": "Intel Core i7",
+        "RAM": 32,
+        "storage": 512,
+        "price": 3000,
+        "stock": true
+    },
+    {
+        "id": 2,
+        "name":"Asus ROG",
+        "screen": 17.3,
+        "processor": "Intel Core i9",
+        "RAM": 32,
+        "storage": 2000,
+        "price": 5000,
+        "stock": false
+    },
+    {
+        "id": 3,
+        "name":"Acer Nitro",
+        "screen": 15,
+        "processor": "Intel Core i5",
+        "RAM": 16,
+        "storage": 512,
+        "price": 2000,
+        "stock": false
+    }
+]
